@@ -1,4 +1,4 @@
 # horoshii_repositorii
 
 
-ВОТ ТУТ БУДЕТ КОНФЛИКТ
+А ВОТ И ОН
